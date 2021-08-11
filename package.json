@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "contentful": "^8.4.2",
+    "contentful-management": "^7.31.0",
+    "dotenv": "^10.0.0"
+  },
+  "name": "spreadshop-contentful-data-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
